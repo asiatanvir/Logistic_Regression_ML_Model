@@ -1,4 +1,4 @@
-# Logistic Regression Model To Deteremine Creditworthiness Of Borrowers
+# Logistic Regression Model To Determine Creditworthiness Of Borrowers
 
 ## Overview of the Analysis
 
