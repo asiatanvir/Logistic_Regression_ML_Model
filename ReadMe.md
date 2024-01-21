@@ -1,4 +1,4 @@
-# Logistic Regression Model To Determine Creditworthiness Of Borrowers
+# Credit Risk Classification Using Logistic Regression Model
 
 ## Overview of the Analysis
 
